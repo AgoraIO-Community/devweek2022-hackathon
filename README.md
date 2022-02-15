@@ -2,7 +2,7 @@
 This is a repo for the winning participants that implemented Agora during the DevWeek2022 hackathon.
 
 ## How to use this repo
-Each project lives within its own branch of this repository. This allows you to clone the repo and only pull down the project you are interested in. Feel free to explore and open a PR with any improvements you'd like to contribute. 
+Each project is uploaded to its own branch of this repository. This allows you to clone the repo and only pull down the project you are interested in. Feel free to explore and open a PR with any improvements you'd like to contribute. Read the descriptions below to learn more about each project.
 
 ## Agora Extensions Challenge
 For this challenge, we were looking for developers to build an app that uses the Agora Video SDKs with any of our current Partner Extensions to solve real world problems. 
