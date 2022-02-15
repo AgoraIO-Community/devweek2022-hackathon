@@ -12,8 +12,7 @@ For this challenge, we were looking for developers to build an app that uses the
   
 [Read More On DevPost](https://devpost.com/software/sumday)  
   
-**Code:**
-[View Branch - Pending](#)  
+**Code:** [View Branch - Pending](#)  
 [View Original Repo - Pending](#)  
 
 ### Second Prize: Smart Call
@@ -21,8 +20,7 @@ For this challenge, we were looking for developers to build an app that uses the
   
 [Read More On DevPost](https://devpost.com/software/smart-call)  
   
-**Code:**
-[View Branch](/tree/smart-call)  
+**Code:** [View Branch](https://github.com/AgoraIO-Community/devweek2022-hackathon/tree/smart-call)  
 [Original Repo](https://github.com/kachaMukabe/smart-call)  
 
 ## Symbl.ai & Agora Joint Challenge
@@ -34,8 +32,7 @@ Challenge - Build New and Smarter Human Connection Experiences with Agora and Sy
 [Read More On DevPost](https://devpost.com/software/draft-submission-dzl5pn)  
 [View Demo](https://interviewtoast.com/)  
   
-**Code:**  
-[View Branch](/tree/interviewtoast)  
+**Code:** [View Branch](https://github.com/AgoraIO-Community/devweek2022-hackathon/tree/interviewtoast)  
 [View Original Repo](https://github.com/yp717/interviewtoast)  
 
 ### Second Prize: MeetVerse
@@ -43,6 +40,6 @@ Challenge - Build New and Smarter Human Connection Experiences with Agora and Sy
   
 [Read More On DevPost](https://devpost.com/software/meetverse-mv17no)  
 [View Demo](https://meetverse.b-cdn.net/)  
-**Code:**  
-[View Branch](/tree/meetverse)  
+  
+**Code:** [View Branch](https://github.com/AgoraIO-Community/devweek2022-hackathon/tree/meetverse)  
 [Original Repo](https://github.com/ssd39/MeetVerse)  
